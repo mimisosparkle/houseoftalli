@@ -1,5 +1,7 @@
 # House of Talli - Business Pitch Demo
 
+[Live Demo Site](https://mimisosparkle.github.io/houseoftalli/talli-workshop-site/index.html)
+
 This website is a **functional prototype** created for a university business pitch. It showcases the digital presence of a heritage-driven brand specializing in Emirati Talli embroidery.
 
 ## Live Demo Features
